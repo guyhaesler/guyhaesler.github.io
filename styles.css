@@ -1,0 +1,46 @@
+body {
+  color: white
+}
+
+h1 {
+  color: white;
+  font-family: sans-serif;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+body {
+  background: #141c1b;
+}
+
+p {
+  color: white;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+.accent-color {
+  color: #fff0db;
+}
+.primary-color {
+  color: #FFF2D8;
+}
+
+#name {
+  color: gainsboro;
+}
+
+h4 {
+  color: gainsboro;
+  font-family: cursive;
+}
+.pop-out-color{
+  color: #CDF5FD;
+}
+h3{
+  font-weight: 700;
+}
